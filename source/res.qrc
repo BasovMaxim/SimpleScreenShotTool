@@ -1,0 +1,8 @@
+<RCC>
+    <qresource lang="Russian" prefix="/">
+        <file alias="ico_16px.png">icons/ico_16px.png</file>
+        <file alias="ico_32px.png">icons/ico_32px.png</file>
+        <file alias="mainico.png">icons/mainico.png</file>
+        <file>sst_ru.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+C:\Qt\Qt5.5.1\5.5\mingw492_32\bin\lupdate.exe sst.pro
